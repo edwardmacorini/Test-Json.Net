@@ -1,0 +1,15 @@
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\bin\Debug\netcoreapp3.1\Test Json.Net.exe
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\bin\Debug\netcoreapp3.1\Test Json.Net.deps.json
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\bin\Debug\netcoreapp3.1\Test Json.Net.runtimeconfig.json
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\bin\Debug\netcoreapp3.1\Test Json.Net.runtimeconfig.dev.json
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\bin\Debug\netcoreapp3.1\Test Json.Net.dll
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\bin\Debug\netcoreapp3.1\Test Json.Net.pdb
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.csprojAssemblyReference.cache
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.AssemblyInfoInputs.cache
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.AssemblyInfo.cs
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.csproj.CopyComplete
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.dll
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.pdb
+C:\Users\Edward\source\repos\Test Json.Net\Test Json.Net\obj\Debug\netcoreapp3.1\Test Json.Net.genruntimeconfig.cache
